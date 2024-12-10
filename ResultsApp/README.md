@@ -1,7 +1,6 @@
 #Output
-![r1](https://github.com/BhanuChandar22/servletprojects/assets/137188404/70696734-1014-4283-80dd-242823bac59d)
+![Screenshot 2024-12-10 235036](https://github.com/user-attachments/assets/5aa8384a-7705-4ca3-ba73-830a8f47130b)
+![Screenshot 2024-12-10 235214](https://github.com/user-attachments/assets/5bbe46ff-2592-410a-b1f8-b982d520546c)
 
-![r2](https://github.com/BhanuChandar22/servletprojects/assets/137188404/06e91f0c-bb21-4258-b1fd-d04a6978cb5e)
 
-![r3db](https://github.com/BhanuChandar22/servletprojects/assets/137188404/54a31fa1-864b-4a50-aab0-e1aaf4449d85)
 
